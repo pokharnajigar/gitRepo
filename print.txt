@@ -1,4 +1,6 @@
 abc
 xyz added from github account
 xyz new feature added
-
+print add function
+print subtraction function
+print multiply function
