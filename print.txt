@@ -1,6 +1,4 @@
 abc
-<<<<<<< HEAD
 xyz added from github account
-=======
 xyz new feature added
->>>>>>> feature
+
